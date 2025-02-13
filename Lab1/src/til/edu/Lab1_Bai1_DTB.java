@@ -20,7 +20,7 @@ public class Lab1_Bai1_DTB {
 		System.out.print("Điểm TB:");
 		double diemTB = scanner.nextDouble();
 		System.out.printf("%s %f điểm", hoTen, diemTB);
-
+scanner.close();
 	}
 
 }
